@@ -1,0 +1,33 @@
+{
+    "success": true,
+    "errorMessage":"",
+    "data":{
+        "value":"₹20,31,015",
+        "invested":"₹16.4L",
+        "currentGains":"₹4.1L (28.2%)",
+        "updatedDate":"31 May 2021",
+        "marketUpdate":"A tough week for domestic markets",
+        "expectedGrowth":[{
+            "year": "2021",
+            "gains": 20000,
+            "investment": 10000
+        }],
+        "dezervInvestments":{
+            "integratedPortfolios":[{
+                "id":"12345",
+                "img":"https://img",
+                "name":"Integrated portfolio - Confident",
+                "value":"₹30k",
+                "invested":"₹30k",
+                "currentGains":"Processing",
+                "gainStatus":"Complete in 2 days",
+                "investingSince":"May' 2021",
+                "expectedPerformance":[{
+                    "year": "2021",
+                    "gains": 20000,
+                    "investment": 10000
+                }]
+            }]
+        }
+    }
+}

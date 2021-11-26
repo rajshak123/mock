@@ -1,0 +1,13 @@
+{
+    "success": true,
+    "errorMessage": "",
+    "token": "eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzcyOTcwNjcsImlhdCI6MTYzNzI5NDY2NywiamsiOiJhdXRoIiwidXNlciI6eyJpZCI6IjYxOTcyMjRiMDgzYjQyNjU2ZDAxNTExZSIsImlzUXVpelRha2VuIjpmYWxzZSwicGhvbmUiOiIiLCJJbnZpdGUiOnsiVG9rZW4iOiIiLCJFeHBpcmF0aW9uRXBvY2giOjB9LCJ3aGF0c2FwcE9wdGluIjpmYWxzZSwiYW9mRGV0YWlscyI6eyJwZXJtYW5lbnRBZGRyZXNzIjp7fSwiYmlydGhDaXR5IjoiIiwicG9saXRpY2FsbHlFeHBvc2VkIjpmYWxzZSwiY3VycmVudEFkZHJlc3MiOnt9fSwiQ3licmlsbGFBY2NvdW50SUQiOiIiLCJDeWJyaWxsYUFjY291bnRPbGRJRCI6MCwiQWNjb3VudElEIjoiMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwIiwiQ3licmlsbGFJbnZlc3RvcklEIjowLCJJbnZlc3RvcklEIjoiMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwIiwiTGlua2VkaW5QaG90b1NhdmVkIjpmYWxzZSwiaW52aXRlQWNjZXNzUGhvbmUiOiIiLCJlbXBsb3llck5hbWUiOiIiLCJyZWZlcnJhbFVzZXJJZCI6IjAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMCIsImlzSW52aXRlQWNjZXNzUGhvbmVWZXJpZmllZCI6ZmFsc2UsImFwcGxpY2FudHNBaGVhZCI6MCwiaXNJbnZpdGVXaGF0c2FwcE5vdGlmeSI6ZmFsc2V9fQ.r17sgoVbvX5krFjMMAuuk4Q4YRi6HGfkquQ0pANEeI15PyIZkoXq4Rt9px0mrds_mEaZh2WgbPC3ODhkjhQVrA",
+    "isWorkEmailVerified": false,
+    "Otp": "",
+    "ExpirationEpoch": 0,
+    "Entity": "",
+    "isApproved": false,
+    "isQuizTaken": false,
+    "isUserNew": true,
+    "isInviteAccessPhoneVerified": false
+}

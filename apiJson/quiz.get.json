@@ -1,0 +1,133 @@
+{
+    "success": true,
+    "quiz": [
+        {
+            "id": "questionID1",
+            "question": "What age are you?",
+            "options": [
+                {
+                    "id": "answerID1",
+                    "answer": "Under 25 years",
+                    "weightage": 0.1
+                },
+                {
+                    "id": "answerID2",
+                    "answer": "25 to 34 years",
+                    "weightage": 0.2
+                },
+                {
+                    "id": "answerID3",
+                    "answer": "35 to 45 years",
+                    "weightage": 0.3
+                },
+                {
+                    "id": "answerID4",
+                    "answer": "Over 45 years",
+                    "weightage": 0.4
+                }
+            ],
+            "multiSelect": false
+        },
+        {
+            "id": "questionID2",
+            "question": "How long have you been investing?",
+            "options": [
+                {
+                    "id": "answerID1",
+                    "answer": "Never invested",
+                    "weightage": 0.4
+                },
+                {
+                    "id": "answerID2",
+                    "answer": "1 to 3 years",
+                    "weightage": 0.3
+                },
+                {
+                    "id": "answerID3",
+                    "answer": "4 to 7 years",
+                    "weightage": 0.2
+                },
+                {
+                    "id": "answerID4",
+                    "answer": "> 7 years",
+                    "weightage": 0.1
+                }
+            ],
+            "multiSelect": false
+        },
+        {
+            "id": "questionID3",
+            "question": "What short term drop in your portfolio value would make you lose sleep?",
+            "options": [
+                {
+                    "id": "answerID1",
+                    "answer": "Can't handle any drop",
+                    "weightage": 1.6
+                },
+                {
+                    "id": "answerID2",
+                    "answer": "-10% drop",
+                    "weightage": 1.2
+                },
+                {
+                    "id": "answerID3",
+                    "answer": "-11% to -20%",
+                    "weightage": 0.8
+                },
+                {
+                    "id": "answerID4",
+                    "answer": "> -20%",
+                    "weightage": 0.4
+                }
+            ],
+            "multiSelect": false
+        },
+        {
+            "id": "questionID2",
+            "question": "What are your long term investment goals?",
+            "options": [
+                {
+                    "id": "answerID1",
+                    "answer": "Kid's education",
+                    "weightage": 0.4
+                },
+                {
+                    "id": "answerID2",
+                    "answer": "Retirement",
+                    "weightage": 0
+                },
+                {
+                    "id": "answerID3",
+                    "answer": "Holidays",
+                    "weightage": 0
+                },
+                {
+                    "id": "answerID4",
+                    "answer": "Family's health",
+                    "weightage": 0.4
+                },
+                {
+                    "id": "answerID5",
+                    "answer": "Start new business",
+                    "weightage": 0
+                },
+                {
+                    "id": "answerID6",
+                    "answer": "Home purchase",
+                    "weightage": 0
+                },
+                {
+                    "id": "answerID7",
+                    "answer": "New Car",
+                    "weightage": 0
+                },
+                {
+                    "id": "answerID8",
+                    "answer": "Marriage",
+                    "weightage": 0.4
+                }
+            ],
+            "multiSelect": true
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "success": true,
+    "errorMessage": "",
+    "data": {
+        "firstName": "eshaan",
+        "email": "jkl@gmail.com",
+        "expertTips": [
+            {
+                "Type": "WeAreBuilding",
+                "imgUrl": "",
+                "header": "WHAT WE ARE BUILDING",
+                "subHeader": "An investing experience for succesful professionals like you",
+                "footerText": "HEAR FROM OUR CO-FOUNDER",
+                "footerUrl": "https://www.youtube.com/watch?v=80PDCoh42Kk&t=177s"
+            },
+            {
+                "Type": "ProTip",
+                "imgUrl": "",
+                "header": "PRO TIP",
+                "subHeader": "Understand your investment style and identify investment options best suited for you",
+                "footerText": "Come back for a new tip tomorrow",
+                "footerUrl": ""
+            },
+            {
+                "Type": "ReadNow",
+                "imgUrl": "",
+                "header": "",
+                "subHeader": "Play your own game for financial freedom",
+                "footerText": "Read Now",
+                "footerUrl": "https://www.dezerv.in/blog/play-your-own-game-for-financial-freedom/"
+            },
+            {
+                "Type": "WhatsApp",
+                "imgUrl": "",
+                "header": "Reach out to an expert",
+                "subHeader": "Any investment query answered",
+                "footerText": "WhatsApp now",
+                "footerUrl": ""
+            }
+        ]
+    }
+}

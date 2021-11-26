@@ -1,0 +1,30 @@
+{
+    "success": true,
+    "errorMessage": "",
+    "data": {
+        "dateOfBirth": 19950604,
+        "salary": 5,
+        "gender": 2,
+        "permanentAddress": {},
+        "occupation": 3,
+        "birthCountry": 1,
+        "birthCity": "",
+        "politicallyExposed": false,
+        "currentAddress": {
+            "address": "breach candy",
+            "pinCode": "400026"
+        },
+        "nominees": [
+            {
+                "name": "IDFB",
+                "relationship": 1,
+                "dateOfBirth": 20001223,
+                "percentageAllocation": 100
+            }
+        ],
+        "pan": "EKTPS3034C",
+        "email": "jkl@gmail.com",
+        "bankAccountNumber": "",
+        "bankIfscCode": ""
+    }
+}

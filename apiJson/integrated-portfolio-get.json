@@ -1,0 +1,126 @@
+{
+    "success": true,
+    "errorMessage": "",
+    "data": {
+        "id": "",
+        "name": "",
+        "minInvestment": 50000,
+        "minTopupInvestment": 20000,
+        "minWithdrawal": 10000,
+        "idealTimeDuration": "",
+        "heroMessage": "",
+        "currentInvestment": "",
+        "investorsCount": 0,
+        "img": "",
+        "showNifty50Graph": true,
+        "cost": {
+            "costPerLakh": 111.79,
+            "costOfBalancedFund": 135.83,
+            "percentSavings": 18,
+            "howMuchWeMake": 66.08
+        },
+        "mixLabels": {
+            "indian": "Indian Equity",
+            "international": "International Equity",
+            "fixedIncome": "Fixed Income",
+            "gold": "Gold"
+        },
+        "mix": {
+            "equity": {
+                "indian": [
+                    {
+                        "name": "UTI Nifty Index Reg Gr",
+                        "percentage": 15
+                    },
+                    {
+                        "name": "ICICI Pru Nifty Next 50 Index Gr",
+                        "percentage": 15
+                    },
+                    {
+                        "name": "PGIM India Midcap Opps Fund Reg Gr",
+                        "percentage": 15
+                    },
+                    {
+                        "name": "Mirae Asset Focused Reg Gr",
+                        "percentage": 15
+                    },
+                    {
+                        "name": "DSP Small Cap Reg Gr",
+                        "percentage": 10
+                    }
+                ],
+                "international": [
+                    {
+                        "name": "PGIM India Global Eq Opp Reg Gr",
+                        "percentage": 10
+                    },
+                    {
+                        "name": "Motilal Oswal S&P 500 Index Reg Gr",
+                        "percentage": 5
+                    }
+                ]
+            },
+            "debt": {
+                "fixedIncome": [
+                    {
+                        "name": "ICICI PRUDENTIAL PSU BOND PLUS SDL 40:60 INDEX FUND - SEP 2027 GROWTH",
+                        "percentage": 5
+                    },
+                    {
+                        "name": "ICICI Pru Credit Risk Reg Gr",
+                        "percentage": 5
+                    }
+                ],
+                "gold": [
+                    {
+                        "name": "Nippon India Gold Savings Gr",
+                        "percentage": 5
+                    }
+                ]
+            }
+        },
+        "investmentReturns": {
+            "expectedPercentage": 0,
+            "sbiFDPercentage": 0,
+            "nifty50Percentage": 0,
+            "input": 0
+        },
+        "multiplier": [
+            {
+                "three": 1.2,
+                "five": 1.36,
+                "ten": 2.07
+            },
+            {
+                "three": 1.38,
+                "five": 1.54,
+                "ten": 2.58
+            },
+            {
+                "three": 1.45,
+                "five": 1.67,
+                "ten": 2.97
+            },
+            {
+                "three": 1.57,
+                "five": 1.92,
+                "ten": 3.84
+            },
+            {
+                "three": 1.7,
+                "five": 3,
+                "ten": 7
+            },
+            {
+                "three": 1.78,
+                "five": 2.11,
+                "ten": 4.47
+            },
+            {
+                "three": 1.8,
+                "five": 2.25,
+                "ten": 4.04
+            }
+        ]
+    }
+}
