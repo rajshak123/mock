@@ -1,0 +1,286 @@
+{
+    "success": true,
+    "errorMessage": "",
+    "data": {
+        "deals": [
+            {
+                "category": "PRE-IPO INVESTMENT",
+                "product": "FIVE STAR BUSINESS FINANCE",
+                "minInvestment": 50000,
+                "industry": "Banking & Financial Services",
+                "banner": "https://dezerv-assets.s3.ap-south-1.amazonaws.com/exclusive-deals/pre-IPO/five-star-finance/Banner-PRE-IPO-FiveStarFinance.png",
+                "dealsDetails": {
+                    "coverDetails": {
+                        "about": "Five Star Business Finance operates in the small business Loans segment which are fully secured by the properties of the borrowers at an interest rate of >20%.",
+                        "minAmount": 50000,
+                        "sharePrice": 6400,
+                        "coverImages": [
+                            "https://dezerv-assets.s3.ap-south-1.amazonaws.com/exclusive-deals/pre-IPO/five-star-finance/Cover-PRE-IPO-FiveStarFinance.png"
+                        ]
+                    },
+                    "whyYouShouldInvest": [
+                        {
+                            "image": "https://dezerv-assets.s3.ap-south-1.amazonaws.com/exclusive-deals/pre-IPO/five-star-finance/Sample-WhyYouShouldInvest-1.png",
+                            "value": "AUM GROWTH We believe healthy companies grow between X & Y"
+                        },
+                        {
+                            "image": "https://dezerv-assets.s3.ap-south-1.amazonaws.com/exclusive-deals/pre-IPO/five-star-finance/Sample-WhyYouShouldInvest-2.png",
+                            "value": "AUM GROWTH We believe healthy companies grow between X & Y"
+                        },
+                        {
+                            "image": "https://dezerv-assets.s3.ap-south-1.amazonaws.com/exclusive-deals/pre-IPO/five-star-finance/Sample-WhyYouShouldInvest-3.png",
+                            "value": "AUM GROWTH We believe healthy companies grow between X & Y"
+                        }
+                    ],
+                    "ourPromise": [
+                        {
+                            "header": "World class due dilligence",
+                            "body": "Extensive 127 point due dilligence conducted by our team.",
+                            "icon": "https://dezerv-assets.s3.ap-south-1.amazonaws.com/exclusive-deals/pre-IPO/OurPromise-1.png"
+                        },
+                        {
+                            "header": "Assured allocation",
+                            "body": "No lottery, first come first serve allocation of shares.",
+                            "icon": "https://dezerv-assets.s3.ap-south-1.amazonaws.com/exclusive-deals/pre-IPO/OurPromise-2.png"
+                        },
+                        {
+                            "header": "High quality co-investors",
+                            "body": "Leading VCs listed below",
+                            "icon": "https://dezerv-assets.s3.ap-south-1.amazonaws.com/exclusive-deals/pre-IPO/OurPromise-3.png"
+                        }
+                    ],
+                    "investors": [
+                        "https://dezerv-assets.s3.ap-south-1.amazonaws.com/exclusive-deals/pre-IPO/five-star-finance/Sample-Investor1.png",
+                        "https://dezerv-assets.s3.ap-south-1.amazonaws.com/exclusive-deals/pre-IPO/five-star-finance/Sample-Investor2.png",
+                        "https://dezerv-assets.s3.ap-south-1.amazonaws.com/exclusive-deals/pre-IPO/five-star-finance/Sample-Investor3.png"
+                    ],
+                    "investmentDetails": {
+                        "companyName": "Five Star Business Finance Limited",
+                        "isin": "INE128S01013",
+                        "lockInPeriod": "Hold shares for 1 year after listing",
+                        "taxImplication": [
+                            "Listed shares(>1 year): ~10%",
+                            "Listed shares(<1 year): ~15%",
+                            "Unlisted shares: ~20%"
+                        ]
+                    },
+                    "howToInvest": [
+                        {
+                            "header": "Complete your investor profile",
+                            "body": "We need some extra info to enable this deal"
+                        },
+                        {
+                            "header": "Reserve your allotment",
+                            "body": "Initiate payment to secure your deal"
+                        },
+                        {
+                            "header": "Receive your deal",
+                            "body": "We transfer the securities to your demat a/c"
+                        }
+                    ],
+                    "faq": [
+                        {
+                            "question": "What is an integrated portfolio?",
+                            "answer": "We create customised investing solutions to maximize returns while controlling downside."
+                        },
+                        {
+                            "question": "Can I schedule transactions?",
+                            "answer": "Yes"
+                        }
+                    ]
+                },
+                "disclosures": "The above investment details are confidential, privileged and not for public distribution. These are provided solely to enhance the transparency about the security and are not an endorsement of our views / opinions. This should not be construed as a research report or as investment advice. Any investment related-decisions are at your risk and sole discretion. Please consult your legal, tax and financial advisors to determine implications or consequences of your investments in such securities."
+            },
+            {
+                "category": "HIGH YIELD DEBT",
+                "product": "MUTHOOTH BOND",
+                "minInvestment": 100000,
+                "creditRating": "AI(CRA)",
+                "yeild": 9,
+                "banner": "https://dezerv-assets.s3.ap-south-1.amazonaws.com/exclusive-deals/high-yield-debt/muthooth-finance/Banner-Bond-MuthootFinance.png",
+                "dealsDetails": {
+                    "coverDetails": {
+                        "about": "Muthooth bond operates in the small business Loans segment which are fully secured by the properties of the borrowers at an interest rate of >20%.",
+                        "minAmount": 100000,
+                        "creditRating": "AI(CRA)",
+                        "yeild": 9,
+                        "maturityDate": "24 Aug 2024",
+                        "coverImages": [
+                            "https://dezerv-assets.s3.ap-south-1.amazonaws.com/exclusive-deals/high-yield-debt/muthooth-finance/Cover-Bond-MuthootFinance.png"
+                        ]
+                    },
+                    "whyYouShouldInvest": [
+                        {
+                            "image": "https://dezerv-assets.s3.ap-south-1.amazonaws.com/exclusive-deals/high-yield-debt/muthooth-finance/Sample-WhyYouShouldInvest-1.png",
+                            "value": "AUM GROWTH We believe healthy companies grow between X & Y"
+                        },
+                        {
+                            "image": "https://dezerv-assets.s3.ap-south-1.amazonaws.com/exclusive-deals/high-yield-debt/muthooth-finance/Sample-WhyYouShouldInvest-2.png",
+                            "value": "AUM GROWTH We believe healthy companies grow between X & Y"
+                        },
+                        {
+                            "image": "https://dezerv-assets.s3.ap-south-1.amazonaws.com/exclusive-deals/high-yield-debt/muthooth-finance/Sample-WhyYouShouldInvest-3.png",
+                            "value": "AUM GROWTH We believe healthy companies grow between X & Y"
+                        }
+                    ],
+                    "ourPromise": [
+                        {
+                            "header": "World class due dilligence",
+                            "body": "Extensive 127 point due dilligence conducted by our team."
+                        },
+                        {
+                            "header": "Assured allocation",
+                            "body": "No lottery, first come first serve allocation of shares."
+                        }
+                    ],
+                    "investmentDetails": {
+                        "companyName": "Muthooth Bond",
+                        "isin": "INE128S07366",
+                        "lockInPeriod": "Hold till maturity date",
+                        "taxImplication": [
+                            "Listed shares(>1 year): ~10%",
+                            "Listed shares(<1 year): ~15%"
+                        ],
+                        "securityName": "11.40% Muthooth Bond 2024",
+                        "faceValue": 10,
+                        "instrumentType": "Corporate Bond",
+                        "returnType": "Regular Income",
+                        "coupon": 11.04,
+                        "couponFrequency": "Monthly",
+                        "natureOfInvestment": "Senior, Secured, Rated, Redeemable, Taxable, Transferable, Listed NCD"
+                    },
+                    "howToInvest": [
+                        {
+                            "header": "Complete your investor profile",
+                            "body": "We need some extra info to enable this deal"
+                        },
+                        {
+                            "header": "Reserve your allotment",
+                            "body": "Initiate payment to secure your deal"
+                        },
+                        {
+                            "header": "Receive your deal",
+                            "body": "We transfer the securities to your demat a/c"
+                        }
+                    ],
+                    "faq": [
+                        {
+                            "question": "What is an integrated portfolio?",
+                            "answer": "We create customised investing solutions to maximize returns while controlling downside."
+                        },
+                        {
+                            "question": "Can I schedule transactions?",
+                            "answer": "Yes"
+                        }
+                    ]
+                },
+                "disclosures": "The above investment details are confidential, privileged and not for public distribution. These are provided solely to enhance the transparency about the security and are not an endorsement of our views / opinions. This should not be construed as a research report or as investment advice. Any investment related-decisions are at your risk and sole discretion. Please consult your legal, tax and financial advisors to determine implications or consequences of your investments in such securities."
+            },
+            {
+                "category": "HIGH YIELD DEBT",
+                "product": "FIVE STAR FINANCE BOND",
+                "minInvestment": 100000,
+                "creditRating": "AI(CRA)",
+                "yeild": 9,
+                "banner": "https://dezerv-assets.s3.ap-south-1.amazonaws.com/exclusive-deals/high-yield-debt/five-star-finance/Banner-Bond-FiveStarFinance.png",
+                "dealsDetails": {
+                    "coverDetails": {
+                        "about": "Five star finance bond operates in the small business Loans segment which are fully secured by the properties of the borrowers at an interest rate of >20%.",
+                        "minAmount": 100000,
+                        "creditRating": "AI(CRA)",
+                        "yeild": 9,
+                        "maturityDate": "24 Aug 2024",
+                        "coverImages": [
+                            "https://dezerv-assets.s3.ap-south-1.amazonaws.com/exclusive-deals/high-yield-debt/five-star-finance/Cover-Bond-FiveStarFinance.png"
+                        ]
+                    },
+                    "whyYouShouldInvest": [
+                        {
+                            "image": "https://dezerv-assets.s3.ap-south-1.amazonaws.com/exclusive-deals/high-yield-debt/five-star-finance/Sample-WhyYouShouldInvest-1.png",
+                            "value": "AUM GROWTH We believe healthy companies grow between X & Y"
+                        },
+                        {
+                            "image": "https://dezerv-assets.s3.ap-south-1.amazonaws.com/exclusive-deals/high-yield-debt/five-star-finance/Sample-WhyYouShouldInvest-2.png",
+                            "value": "AUM GROWTH We believe healthy companies grow between X & Y"
+                        },
+                        {
+                            "image": "https://dezerv-assets.s3.ap-south-1.amazonaws.com/exclusive-deals/high-yield-debt/five-star-finance/Sample-WhyYouShouldInvest-3.png",
+                            "value": "AUM GROWTH We believe healthy companies grow between X & Y"
+                        }
+                    ],
+                    "ourPromise": [
+                        {
+                            "header": "World class due dilligence",
+                            "body": "Extensive 127 point due dilligence conducted by our team.",
+                            "icon": "https://dezerv-assets.s3.ap-south-1.amazonaws.com/exclusive-deals/high-yield-debt/OurPromise-1.png"
+                        },
+                        {
+                            "header": "Assured allocation",
+                            "body": "No lottery, first come first serve allocation of shares.",
+                            "icon": "https://dezerv-assets.s3.ap-south-1.amazonaws.com/exclusive-deals/high-yield-debt/OurPromise-2.png"
+                        }
+                    ],
+                    "investmentDetails": {
+                        "companyName": "Five Star Finance Bond",
+                        "isin": "INE128S07369",
+                        "lockInPeriod": "Hold till maturity date",
+                        "taxImplication": [
+                            "Listed shares(>1 year): ~10%",
+                            "Listed shares(<1 year): ~15%"
+                        ],
+                        "securityName": "11.40% Five Star Finance Bond 2024",
+                        "faceValue": 10,
+                        "instrumentType": "Corporate Bond",
+                        "returnType": "Regular Income",
+                        "coupon": 11.04,
+                        "couponFrequency": "Monthly",
+                        "natureOfInvestment": "Senior, Secured, Rated, Redeemable, Taxable, Transferable, Listed NCD"
+                    },
+                    "howToInvest": [
+                        {
+                            "header": "Complete your investor profile",
+                            "body": "We need some extra info to enable this deal"
+                        },
+                        {
+                            "header": "Reserve your allotment",
+                            "body": "Initiate payment to secure your deal"
+                        },
+                        {
+                            "header": "Receive your deal",
+                            "body": "We transfer the securities to your demat a/c"
+                        }
+                    ],
+                    "faq": [
+                        {
+                            "question": "What is an integrated portfolio?",
+                            "answer": "We create customised investing solutions to maximize returns while controlling downside."
+                        },
+                        {
+                            "question": "Can I schedule transactions?",
+                            "answer": "Yes"
+                        }
+                    ]
+                },
+                "disclosures": "The above investment details are confidential, privileged and not for public distribution. These are provided solely to enhance the transparency about the security and are not an endorsement of our views / opinions. This should not be construed as a research report or as investment advice. Any investment related-decisions are at your risk and sole discretion. Please consult your legal, tax and financial advisors to determine implications or consequences of your investments in such securities."
+            },
+            {
+                "category": "COMING SOON",
+                "product": "OLA PRE-IPO",
+                "banner": "https://dezerv-assets.s3.ap-south-1.amazonaws.com/exclusive-deals/coming-soon/OLA-Coming+soon.png",
+                "dealsDetails": {
+                    "coverDetails": {},
+                    "investmentDetails": {}
+                }
+            },
+            {
+                "category": "COMING SOON",
+                "product": "GLOBAL ASSETS",
+                "banner": "https://dezerv-assets.s3.ap-south-1.amazonaws.com/exclusive-deals/coming-soon/Global-ComingSoon.png",
+                "dealsDetails": {
+                    "coverDetails": {},
+                    "investmentDetails": {}
+                }
+            }
+        ]
+    }
+}

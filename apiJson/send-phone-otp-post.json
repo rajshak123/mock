@@ -1,0 +1,9 @@
+{
+    "success": true,
+    "errorMessage": "",
+    "data": {
+        "isNewUser": false,
+        "inviteExpired": false,
+        "inviteUsed": false
+    }
+}

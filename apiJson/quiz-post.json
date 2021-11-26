@@ -1,0 +1,9 @@
+{
+    "quizAnswers":{
+        "questionID1":"answerID1",
+        "questionID2":"answerID3",
+        "questionID3":"answerID4",
+        "questionID4":"answerID2"
+    },
+    "score":10
+}
