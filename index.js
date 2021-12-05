@@ -28,7 +28,7 @@ const AOF_DETAILS = '/aof-details'
 const PORTFOLIO = '/portfolio'
 const USER = '/user'
 const QUIZ = '/quiz'
-const EXCLUSIVE_DETAILS = '/exclusive-details'
+const EXCLUSIVE_DETAILS = '/exclusive-deals'
 const REGISTER_LOGIN_WORKEMAIL = '/register-login-workemail'
 const SEND_WORK_EMAIL = '/send-work-email-otp'
 
