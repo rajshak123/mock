@@ -2,19 +2,19 @@
     "success":true,
     "errorMessage":"",
     "data":{
-        "isNewUser":false,
+        "isNewUser":true,
         "token":"token",
         "score":5,
         "isQuizTaken":false,
         "image":"https://dezerv-profile-images.s3.ap-south-1.amazonaws.com/profile-photos/1632379391sign612ef3fd02586a3d8df4093d",
         "firstName":"Ankit",
         "stage":{
-            "isPanVerified":true,
-            "isBankAccountVerified":true,
-            "isSignatureUploaded":true,
-            "isAofSubmitted":true,
-            "isOnboarded":true,
-            "isChequeUploaded":true
+            "isPanVerified":false,
+            "isBankAccountVerified":false,
+            "isSignatureUploaded":false,
+            "isAofSubmitted":false,
+            "isOnboarded":false,
+            "isChequeUploaded":false
         }
     }
 }
