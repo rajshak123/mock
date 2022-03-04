@@ -1,0 +1,14 @@
+{
+    "success": true,
+    "errorMessage": "",
+    "workEmail": "rajat@dezerv.in",
+    "isWorkEmailVerified": false,
+    "firstName": "dasf",
+    "lastName": "fas",
+    "Otp": "",
+    "ExpirationEpoch": 0,
+    "Entity": "",
+    "isQuizTaken": false,
+    "isUserDetailsExists": true,
+    "isInviteAccessPhoneVerified": true
+}

@@ -1,0 +1,9 @@
+{
+    "success": true,
+    "errorMessage": "",
+    "data": {
+        "name": "Sayanee Bhowmik",
+        "whatsappLink": "https://api.whatsapp.com/send?phone=918976901475&text=Hi%20Sayanee.%20Need%20some%20help%20with%20my%20account",
+        "image": "https://dezerv-assets.s3.ap-south-1.amazonaws.com/sayanee.png"
+    }
+}

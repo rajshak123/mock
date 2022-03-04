@@ -2,6 +2,6 @@
     "success":true,
     "errorMessage":"",
     "data":{
-        "kycVerified":false
+        "kycVerified":true
     }
 }

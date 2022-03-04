@@ -2,7 +2,7 @@
     "success": true,
     "errorMessage": "",
     "data": {
-        "isNewUser": false,
+        "isNewUser": true,
         "inviteExpired": false,
         "inviteUsed": false
     }

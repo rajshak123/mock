@@ -6,18 +6,18 @@
         "name": "",
         "minInvestment": 50000,
         "minTopupInvestment": 20000,
-        "minWithdrawal": 10000,
+        "minWithdrawal": 1250,
         "idealTimeDuration": "",
         "heroMessage": "",
         "currentInvestment": "",
         "investorsCount": 0,
         "img": "",
-        "showNifty50Graph": true,
+        "showNifty50Graph": false,
         "cost": {
-            "costPerLakh": 111.79,
-            "costOfBalancedFund": 135.83,
-            "percentSavings": 18,
-            "howMuchWeMake": 66.08
+            "costPerLakh": 100,
+            "costOfBalancedFund": 150,
+            "percentSavings": 50,
+            "howMuchWeMake": 50
         },
         "mixLabels": {
             "indian": "Indian Equity",
@@ -30,51 +30,59 @@
                 "indian": [
                     {
                         "name": "UTI Nifty Index Reg Gr",
-                        "percentage": 15
-                    },
-                    {
-                        "name": "ICICI Pru Nifty Next 50 Index Gr",
-                        "percentage": 15
+                        "percentage": 10
                     },
                     {
                         "name": "PGIM India Midcap Opps Fund Reg Gr",
-                        "percentage": 15
-                    },
-                    {
-                        "name": "Mirae Asset Focused Reg Gr",
-                        "percentage": 15
-                    },
-                    {
-                        "name": "DSP Small Cap Reg Gr",
                         "percentage": 10
+                    },
+                    {
+                        "name": "IDFC SMALLMIDCAP EQUITY FUND - GROWTH",
+                        "percentage": 20
                     }
                 ],
                 "international": [
                     {
-                        "name": "PGIM India Global Eq Opp Reg Gr",
+                        "name": "UTI Nifty Index Reg Gr",
                         "percentage": 10
                     },
                     {
-                        "name": "Motilal Oswal S&P 500 Index Reg Gr",
-                        "percentage": 5
+                        "name": "PGIM India Midcap Opps Fund Reg Gr",
+                        "percentage": 10
+                    },
+                    {
+                        "name": "IDFC SMALLMIDCAP EQUITY FUND - GROWTH",
+                        "percentage": 10
                     }
                 ]
             },
             "debt": {
                 "fixedIncome": [
                     {
-                        "name": "ICICI PRUDENTIAL PSU BOND PLUS SDL 40:60 INDEX FUND - SEP 2027 GROWTH",
+                        "name": "UTI Nifty Index Reg Gr",
                         "percentage": 5
                     },
                     {
-                        "name": "ICICI Pru Credit Risk Reg Gr",
-                        "percentage": 5
+                        "name": "PGIM India Midcap Opps Fund Reg Gr",
+                        "percentage": 1
+                    },
+                    {
+                        "name": "IDFC SMALLMIDCAP EQUITY FUND - GROWTH",
+                        "percentage": 1
                     }
                 ],
                 "gold": [
                     {
-                        "name": "Nippon India Gold Savings Gr",
-                        "percentage": 5
+                        "name": "UTI Nifty Index Reg Gr",
+                        "percentage": 10
+                    },
+                    {
+                        "name": "PGIM India Midcap Opps Fund Reg Gr",
+                        "percentage": 2
+                    },
+                    {
+                        "name": "IDFC SMALLMIDCAP EQUITY FUND - GROWTH",
+                        "percentage": 1
                     }
                 ]
             }
@@ -87,14 +95,14 @@
         },
         "multiplier": [
             {
-                "three": 1.2,
-                "five": 1.36,
-                "ten": 2.07
+                "three": 1,
+                "five": 2,
+                "ten": 3
             },
             {
-                "three": 1.38,
-                "five": 1.54,
-                "ten": 2.58
+                "three": 1,
+                "five": 2,
+                "ten": 3
             },
             {
                 "three": 1.45,
@@ -117,9 +125,56 @@
                 "ten": 4.47
             },
             {
-                "three": 1.8,
-                "five": 2.25,
-                "ten": 4.04
+                "three": 1,
+                "five": 2,
+                "ten": 3
+            }
+        ],
+        "ipaVideo": {
+            "portraitVideoSource": "https://dezerv-assets.s3.ap-south-1.amazonaws.com/websiteVideos/puravVerticalVideo.mp4",
+            "portraitVideoThumbnail": "https://dezerv-assets.s3.ap-south-1.amazonaws.com/websiteVideos/puravPortraitThumb.png",
+            "landscapeVideoSource": "https://dezerv-assets.s3.ap-south-1.amazonaws.com/websiteVideos/puravHorizontalVideo.mp4",
+            "landscapeVideoThumbnail": "https://dezerv-assets.s3.ap-south-1.amazonaws.com/websiteVideos/puravLandscapeThumb.png"
+        },
+        "ipaFAQ": [
+            {
+                "question": "question 1",
+                "answer": "this is a demo answer for question 1",
+                "active": true
+            },
+            {
+                "question": "this is the demo question 2",
+                "answer": "this is even more lengthy answer for demo question 2",
+                "active": true
+            }
+        ],
+        "lockIn": "no lock-in",
+        "numberOfFunds": 3,
+        "ipaLabelsAndDescriptions": [
+            {
+                "type": 1,
+                "ipaLabel": "Careful",
+                "description": "Prioritising safety over high returns."
+            },
+            {
+                "type": 2,
+                "ipaLabel": "Conservative",
+                "description": "Diversified for consistent returns with low risk."
+            },
+            {
+                "type": 3,
+                "ipaLabel": "Balanced",
+                "description": "Focused on higher returns while minimising risk."
+            },
+            {
+                "type": 4,
+                "ipaLabel": "Growth",
+                "description": "Superior long-term returns with moderate risk."
+            },
+            {
+                "type": 5,
+                "ipaLabel": "Aggressive",
+                "description": "High-risk approach to maximize returns over the long-term."
             }
         ]
     }

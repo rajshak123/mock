@@ -16,6 +16,12 @@ var exclusiveDetailsGet = require("./apiJson/exclusive-details-get.json")
 var registerLoginWorkEmailPost = require("./apiJson/register-login-workemail-post.json")
 var quizGet = require('./apiJson/quiz.get.json')
 var quizPost = require('./apiJson/quiz-post.json')
+var constantsGet = require('./apiJson/constants-get.json')
+var uploadSignaturePost = require('./apiJson/upload-signature-post.json')
+var customerServiceGet = require('./apiJson/customer-service-get.json')
+var userSavePut = require('./apiJson/user-save-put.json')
+var verifyNewInvitePost = require('./apiJson/verify-new-invite-post.json')
+var sendNewInvitePost = require('./apiJson/send-new-invite-post.json')
 
 app.use(cors());
 const SEND_PHONE_OTP = '/send-phone-otp'
@@ -27,17 +33,52 @@ const UPLOAD_CHEQUE = '/upload-cheque'
 const AOF_DETAILS = '/aof-details'
 const PORTFOLIO = '/portfolio'
 const USER = '/user'
+const USER_SAVE = '/user-save'
 const QUIZ = '/quiz'
+const CUSTOMER_SERVICE = '/customer-service'
+const CONSTANT = '/constants'
 const EXCLUSIVE_DETAILS = '/exclusive-deals'
 const REGISTER_LOGIN_WORKEMAIL = '/register-login-workemail'
 const SEND_WORK_EMAIL = '/send-work-email-otp'
+const UPLOAD_SIGNATURE = '/upload-signature'
+const VERIFY_NEW_INVITE = '/verify-new-invite';
+const SEND_NEW_INVITE = '/send-new-invite';
+
+app.post(SEND_NEW_INVITE, function (req, res) {
+	res.json(sendNewInvitePost)
+})
+
+
+app.post(VERIFY_NEW_INVITE, function (req, res) {
+	res.json(verifyNewInvitePost)
+})
+
+app.put(USER_SAVE, function (req, res) {
+	res.json(userSavePut)
+})
+
+
+app.get(CONSTANT, function (req, res) {
+	res.json(constantsGet)
+})
+
+app.get(CUSTOMER_SERVICE, function (req, res) {
+	res.json(customerServiceGet)
+})
 
 app.get(QUIZ, function (req, res) {
+	// res.status(401).send('Sorry, we cannot find that!');
+	// res.status(401);
 	res.json(quizGet)
 })
 
 app.post(QUIZ, function (req, res) {
-	res.json(quizPost)
+	res.json({})
+	// res.json(quizPost)
+})
+
+app.post(UPLOAD_SIGNATURE, function (req, res) {
+	res.json(uploadSignaturePost)
 })
 
 app.post(SEND_WORK_EMAIL, function (req, res) {
@@ -71,7 +112,8 @@ app.get(PAN, function (req, res) {
 })
 
 app.post(PAN, function (req, res) {
-	res.json(panPost)
+	setTimeout(()=>res.json(panPost),2000)
+	// res.json(panPost)
 })
 
 app.post(VERIFY_BANK_ACCOUNT, function (req, res) {
@@ -84,6 +126,7 @@ app.get(AOF_DETAILS, function (req, res) {
 	res.json(aofDetailsGet)
 })
 app.post(AOF_DETAILS, function (req, res) {
+	// res.status(404).send('Not Found')
 	res.json(aofDetailPost)
 })
 

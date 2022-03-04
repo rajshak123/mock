@@ -1,133 +1,369 @@
 {
     "success": true,
+    "errorMessage": "",
     "quiz": [
         {
-            "id": "questionID1",
+            "id": "61d53a86f59118536a17f19d",
+            "code": 1405,
             "question": "What age are you?",
             "options": [
                 {
-                    "id": "answerID1",
-                    "answer": "Under 25 years",
-                    "weightage": 0.1
+                    "id": "61d53b00f59118536a17f1a0",
+                    "answer": "Under 30 years",
+                    "weightage": 0.1,
+                    "question": "61d53a86f59118536a17f19d",
+                    "order": 1
                 },
                 {
-                    "id": "answerID2",
-                    "answer": "25 to 34 years",
-                    "weightage": 0.2
+                    "id": "61d53b00f59118536a17f1a1",
+                    "answer": "31 to 39 years",
+                    "weightage": 0.2,
+                    "question": "61d53a86f59118536a17f19d",
+                    "order": 2
                 },
                 {
-                    "id": "answerID3",
-                    "answer": "35 to 45 years",
-                    "weightage": 0.3
+                    "id": "61d53b00f59118536a17f1a2",
+                    "answer": "40 to 50 years",
+                    "weightage": 0.3,
+                    "question": "61d53a86f59118536a17f19d",
+                    "order": 3
                 },
                 {
-                    "id": "answerID4",
-                    "answer": "Over 45 years",
-                    "weightage": 0.4
+                    "id": "61d53b00f59118536a17f1a3",
+                    "answer": "Over 50 years",
+                    "weightage": 0.4,
+                    "question": "61d53a86f59118536a17f19d",
+                    "order": 4
                 }
             ],
-            "multiSelect": false
+            "weightage": 0.1,
+            "inActive": false,
+            "order": 1
         },
         {
-            "id": "questionID2",
+            "id": "61023b141e85f8728c3428be",
+            "code": 1655,
             "question": "How long have you been investing?",
             "options": [
                 {
-                    "id": "answerID1",
+                    "id": "61023b141e85f8728c3428bf",
                     "answer": "Never invested",
-                    "weightage": 0.4
+                    "weightage": 0.8,
+                    "question": "61023b141e85f8728c3428be",
+                    "order": 1
                 },
                 {
-                    "id": "answerID2",
+                    "id": "61023b141e85f8728c3428c0",
                     "answer": "1 to 3 years",
-                    "weightage": 0.3
+                    "weightage": 0.3,
+                    "question": "61023b141e85f8728c3428be",
+                    "order": 2
                 },
                 {
-                    "id": "answerID3",
+                    "id": "61023b141e85f8728c3428c1",
                     "answer": "4 to 7 years",
-                    "weightage": 0.2
+                    "weightage": 0.2,
+                    "question": "61023b141e85f8728c3428be",
+                    "order": 3
                 },
                 {
-                    "id": "answerID4",
-                    "answer": "> 7 years",
-                    "weightage": 0.1
+                    "id": "61023b141e85f8728c3428c2",
+                    "answer": "\u003e7 years",
+                    "weightage": 0.1,
+                    "question": "61023b141e85f8728c3428be",
+                    "order": 4
                 }
             ],
-            "multiSelect": false
+            "weightage": 0.1,
+            "inActive": false,
+            "order": 2
         },
         {
-            "id": "questionID3",
-            "question": "What short term drop in your portfolio value would make you lose sleep?",
+            "id": "61caacc9ac772b90338e6f20",
+            "code": 1620,
+            "question": "What are your current investments?",
             "options": [
                 {
-                    "id": "answerID1",
-                    "answer": "Can't handle any drop",
-                    "weightage": 1.6
+                    "id": "61caaf8af59118536a17f181",
+                    "answer": "Mutual Funds",
+                    "weightage": 0,
+                    "question": "61caacc9ac772b90338e6f20",
+                    "order": 1
                 },
                 {
-                    "id": "answerID2",
-                    "answer": "-10% drop",
-                    "weightage": 1.2
+                    "id": "61caaf8af59118536a17f182",
+                    "answer": "Physical Gold",
+                    "weightage": 0,
+                    "question": "61caacc9ac772b90338e6f20",
+                    "order": 2
                 },
                 {
-                    "id": "answerID3",
+                    "id": "61caaf8af59118536a17f183",
+                    "answer": "Direct Stocks",
+                    "weightage": 0,
+                    "question": "61caacc9ac772b90338e6f20",
+                    "order": 3
+                },
+                {
+                    "id": "61caaf8af59118536a17f184",
+                    "answer": "Crypto",
+                    "weightage": 0,
+                    "question": "61caacc9ac772b90338e6f20",
+                    "order": 4
+                },
+                {
+                    "id": "61caaf8af59118536a17f185",
+                    "answer": "Real Estate",
+                    "weightage": 0,
+                    "question": "61caacc9ac772b90338e6f20",
+                    "order": 5
+                },
+                {
+                    "id": "61caaf8af59118536a17f186",
+                    "answer": "Bonds",
+                    "weightage": 0,
+                    "question": "61caacc9ac772b90338e6f20",
+                    "order": 6
+                },
+                {
+                    "id": "61caaf8af59118536a17f187",
+                    "answer": "PMS/AIF",
+                    "weightage": 0,
+                    "question": "61caacc9ac772b90338e6f20",
+                    "order": 7
+                },
+                {
+                    "id": "61caaf8af59118536a17f188",
+                    "answer": "Fixed Deposits",
+                    "weightage": 0,
+                    "question": "61caacc9ac772b90338e6f20",
+                    "order": 8
+                },
+                {
+                    "id": "61caaf8af59118536a17f189",
+                    "answer": "P2P Lending",
+                    "weightage": 0,
+                    "question": "61caacc9ac772b90338e6f20",
+                    "order": 9
+                },
+                {
+                    "id": "61caaf8af59118536a17f18a",
+                    "answer": "Unlisted Equity",
+                    "weightage": 0,
+                    "question": "61caacc9ac772b90338e6f20",
+                    "order": 10
+                },
+                {
+                    "id": "61d82517f77bdbfca1731513",
+                    "answer": "Futures \u0026 Options",
+                    "weightage": 0,
+                    "question": "61caacc9ac772b90338e6f20",
+                    "order": 11
+                }
+            ],
+            "multiSelect": true,
+            "weightage": 0,
+            "inActive": false,
+            "order": 3
+        },
+        {
+            "id": "61caacfbac772b90338e9a67",
+            "code": 1829,
+            "question": "How do you currently invest?",
+            "options": [
+                {
+                    "id": "61caafe2f59118536a17f18b",
+                    "answer": "On my own",
+                    "weightage": 0,
+                    "question": "61caacfbac772b90338e9a67",
+                    "order": 1
+                },
+                {
+                    "id": "61caafe2f59118536a17f18c",
+                    "answer": "I have a certified financial advisor",
+                    "weightage": 0,
+                    "question": "61caacfbac772b90338e9a67",
+                    "order": 2
+                },
+                {
+                    "id": "61caafe2f59118536a17f18d",
+                    "answer": "My bank RM helps me",
+                    "weightage": 0,
+                    "question": "61caacfbac772b90338e9a67",
+                    "order": 3
+                },
+                {
+                    "id": "61caafe2f59118536a17f18e",
+                    "answer": "My friend/family helps me invest",
+                    "weightage": 0,
+                    "question": "61caacfbac772b90338e9a67",
+                    "order": 4
+                }
+            ],
+            "multiSelect": true,
+            "weightage": 0,
+            "inActive": false,
+            "order": 4
+        },
+        {
+            "id": "61caad22ac772b90338eb8a4",
+            "code": 1231,
+            "question": "Who depends on you financially?",
+            "options": [
+                {
+                    "id": "61cab21af59118536a17f18f",
+                    "answer": "Kid(s)",
+                    "weightage": 0.3,
+                    "question": "61caad22ac772b90338eb8a4",
+                    "order": 1
+                },
+                {
+                    "id": "61cab21af59118536a17f190",
+                    "answer": "Spouse",
+                    "weightage": 0.3,
+                    "question": "61caad22ac772b90338eb8a4",
+                    "order": 2
+                },
+                {
+                    "id": "61cab21af59118536a17f191",
+                    "answer": "Parents",
+                    "weightage": 0.3,
+                    "question": "61caad22ac772b90338eb8a4",
+                    "order": 3
+                },
+                {
+                    "id": "61cab21af59118536a17f192",
+                    "answer": "Other family",
+                    "weightage": 0.3,
+                    "question": "61caad22ac772b90338eb8a4",
+                    "order": 4
+                },
+                {
+                    "id": "61d53c8448442f9610a2a903",
+                    "answer": "No dependents",
+                    "weightage": 0,
+                    "question": "61caad22ac772b90338eb8a4",
+                    "order": 5
+                }
+            ],
+            "multiSelect": true,
+            "weightage": 0,
+            "inActive": false,
+            "order": 5
+        },
+        {
+            "id": "61d53bc5f59118536a17f1a4",
+            "code": 1809,
+            "question": "What temporary drop in your portfolio value would make you lose sleep?",
+            "options": [
+                {
+                    "id": "61d53be4f59118536a17f1a6",
+                    "answer": "Can’t handle any drop",
+                    "weightage": 4,
+                    "question": "61d53bc5f59118536a17f1a4",
+                    "order": 1
+                },
+                {
+                    "id": "61d53be4f59118536a17f1a5",
+                    "answer": "-5% to -10%",
+                    "weightage": 1.5,
+                    "question": "61d53bc5f59118536a17f1a4",
+                    "order": 2
+                },
+                {
+                    "id": "61d53be4f59118536a17f1a7",
                     "answer": "-11% to -20%",
-                    "weightage": 0.8
+                    "weightage": 1,
+                    "question": "61d53bc5f59118536a17f1a4",
+                    "order": 3
                 },
                 {
-                    "id": "answerID4",
-                    "answer": "> -20%",
-                    "weightage": 0.4
+                    "id": "61d53be4f59118536a17f1a8",
+                    "answer": "\u003e -20%",
+                    "weightage": 0.5,
+                    "question": "61d53bc5f59118536a17f1a4",
+                    "order": 4
                 }
             ],
-            "multiSelect": false
+            "weightage": 0.5,
+            "inActive": false,
+            "order": 6
         },
         {
-            "id": "questionID2",
-            "question": "What are your long term investment goals?",
+            "id": "61caad7eac772b9033900810",
+            "code": 1808,
+            "question": "Are you a salaried professional?",
             "options": [
                 {
-                    "id": "answerID1",
-                    "answer": "Kid's education",
-                    "weightage": 0.4
+                    "id": "61cab24bf59118536a17f193",
+                    "answer": "Yes",
+                    "weightage": 0,
+                    "question": "61caad7eac772b9033900810",
+                    "order": 1
                 },
                 {
-                    "id": "answerID2",
-                    "answer": "Retirement",
-                    "weightage": 0
-                },
-                {
-                    "id": "answerID3",
-                    "answer": "Holidays",
-                    "weightage": 0
-                },
-                {
-                    "id": "answerID4",
-                    "answer": "Family's health",
-                    "weightage": 0.4
-                },
-                {
-                    "id": "answerID5",
-                    "answer": "Start new business",
-                    "weightage": 0
-                },
-                {
-                    "id": "answerID6",
-                    "answer": "Home purchase",
-                    "weightage": 0
-                },
-                {
-                    "id": "answerID7",
-                    "answer": "New Car",
-                    "weightage": 0
-                },
-                {
-                    "id": "answerID8",
-                    "answer": "Marriage",
-                    "weightage": 0.4
+                    "id": "61cab24bf59118536a17f194",
+                    "answer": "No",
+                    "weightage": 0,
+                    "question": "61caad7eac772b9033900810",
+                    "order": 2
                 }
             ],
-            "multiSelect": true
+            "weightage": 0,
+            "inActive": false,
+            "order": 7
+        },
+        {
+            "id": "61caadaaac772b903390eb18",
+            "code": 1265,
+            "question": "What is your profession?",
+            "options": [
+                {
+                    "id": "61cab292f59118536a17f195",
+                    "answer": "Entrepreneur",
+                    "weightage": 0,
+                    "question": "61caadaaac772b903390eb18",
+                    "order": 1
+                },
+                {
+                    "id": "61cab292f59118536a17f196",
+                    "answer": "Freelancer",
+                    "weightage": 0,
+                    "question": "61caadaaac772b903390eb18",
+                    "order": 2
+                },
+                {
+                    "id": "61cab292f59118536a17f197",
+                    "answer": "Retired",
+                    "weightage": 0,
+                    "question": "61caadaaac772b903390eb18",
+                    "order": 3
+                },
+                {
+                    "id": "61cab292f59118536a17f198",
+                    "answer": "Homemaker",
+                    "weightage": 0,
+                    "question": "61caadaaac772b903390eb18",
+                    "order": 4
+                },
+                {
+                    "id": "61d80fb4f77bdbfca13fd146",
+                    "answer": "Full-time investor",
+                    "weightage": 0,
+                    "question": "61caadaaac772b903390eb18",
+                    "order": 5
+                },
+                {
+                    "id": "61d80fbdf77bdbfca13ffcd1",
+                    "answer": "Other",
+                    "weightage": 0,
+                    "question": "61caadaaac772b903390eb18",
+                    "order": 6
+                }
+            ],
+            "weightage": 0,
+            "inActive": false,
+            "order": 8
         }
     ]
 }

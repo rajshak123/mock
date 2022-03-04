@@ -2,6 +2,6 @@
     "success":true,
     "errorMessage":"",
     "data":{
-        "bankVerified":true
+        "bankVerified":false
     }
 }
